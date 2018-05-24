@@ -18,11 +18,10 @@ To replicate Kim's result, this fork will use the GoogleNews word vectors.
 - GPU: GTX 1080 Ti
 - CPU: i7-6850K
 - Ubuntu 16.04
-- Nvidia, CUDA 9.0, cuDNN 7.0
+- Nvidia CUDA 9.0, cuDNN 7.0
 - Keras 2.1.6
 - Tensorflow-gpu 1.8
-- Theano 0.9  (which is about 3x faster than tensorflow !!!)
-- Python 2.7 or 3.6
+- Python 3.6
 
 
 ### Running the local data (Cornell Movie Review Dataset) with GoogleNews embedding word vectors
